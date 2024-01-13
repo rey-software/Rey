@@ -1,2 +1,2 @@
 # Rey-Launcher
-Repository For ReyLauncher
+Repository For Rey Launcher
